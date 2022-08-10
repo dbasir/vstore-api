@@ -13,9 +13,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest-api-mongodb</name>
 	<description>Demo project for MongoDB</description>
+	<!--
 	<properties>
 		<java.version>16</java.version>
 	</properties>
+	-->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
